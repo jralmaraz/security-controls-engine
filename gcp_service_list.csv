@@ -1,0 +1,195 @@
+﻿Cloud,Service
+GCP,Compute Engine
+GCP,Cloud Storage
+GCP,Cloud SDK
+GCP,Cloud SQL
+GCP,Google Kubernetes Engine
+GCP,BigQuery
+GCP,Cloud CDN
+GCP,Dataflow
+GCP,Operations
+GCP,Cloud Run
+GCP,Anthos
+GCP,Cloud Functions
+GCP,Vertex AI
+GCP,Deep Learning VM Image
+GCP,Notebooks
+GCP,Deep Learning Containers
+GCP,Vertex Data Labeling
+GCP,TensorFlow Enterprise
+GCP,AI building blocks
+GCP,AutoML
+GCP,Vision AI
+GCP,Video AI
+GCP,Cloud Natural Language
+GCP,Cloud Translation
+GCP,Media Translation (beta)
+GCP,Text-to-Speech
+GCP,Speech-to-Text
+GCP,Dialogflow
+GCP,AutoML Tables (beta)
+GCP,Cloud Inference API (alpha)
+GCP,Recommendations AI
+GCP,AI Infrastructure
+GCP,Cloud GPUs
+GCP,Cloud TPU
+GCP,Apigee API Platform
+GCP,HealthAPIx
+GCP,Apigee Hybrid
+GCP,AppSheet Automation
+GCP,AppSheet
+GCP,Apigee Open Banking APIx
+GCP,Apigee Sense
+GCP,Cloud Endpoints
+GCP,Cloud Healthcare API
+GCP,API Gateway
+GCP,App Engine
+GCP,Bare Metal
+GCP,Cloud GPUs
+GCP,Cloud Run
+GCP,Compute Engine
+GCP,Migrate for Compute Engine
+GCP,Preemptible VMs
+GCP,Recommender
+GCP,Shielded VMs
+GCP,Sole-tenant Nodes
+GCP,SQL Server on Google Cloud
+GCP,VMware Engine
+GCP,Artifact Registry
+GCP,Cloud Build
+GCP,Cloud Run
+GCP,Container Registry
+GCP,Container Security
+GCP,Deep Learning Containers
+GCP,Google Kubernetes Engine (GKE)
+GCP,Knative
+GCP,Kubernetes applications on Google Cloud Marketplace
+GCP,BigQuery
+GCP,Looker
+GCP,Dataproc
+GCP,Dataflow
+GCP,Pub/Sub
+GCP,Cloud Data Fusion
+GCP,Data Catalog
+GCP,Cloud Composer
+GCP,Dataprep
+GCP,Dataplex
+GCP,Analytics Hub
+GCP,Google Data Studio*
+GCP,Google Marketing Platform*
+GCP,Cloud Life Sciences (beta)
+GCP,Bare Metal
+GCP,Cloud Bigtable
+GCP,Cloud Spanner
+GCP,Cloud SQL
+GCP,Database Migration Service
+GCP,Firestore
+GCP,Firebase Realtime Database
+GCP,Memorystore
+GCP,Datastream
+GCP,Artifact Registry
+GCP,Cloud Build
+GCP,Cloud Code
+GCP,Cloud Scheduler
+GCP,Cloud SDK
+GCP,Cloud Source Repositories
+GCP,Cloud Tasks
+GCP,Container Registry
+GCP,Firebase Crashlytics
+GCP,Firebase Test Lab
+GCP,Gradle App Engine Plugin
+GCP,Maven App Engine Plugin
+GCP,Tekton
+GCP,Tools for Eclipse
+GCP,Tools for PowerShell
+GCP,Apigee healthcare APIx
+GCP,Cloud Healthcare API
+GCP,Cloud Life Sciences (beta)
+GCP,Healthcare Natural Language AI
+GCP,Anthos
+GCP,Apigee API Management
+GCP,Cloud Build
+GCP,Looker
+GCP,Migrate for Anthos
+GCP,Edge TPU
+GCP,IoT Core
+GCP,Anthos Service Mesh
+GCP,Cloud APIs
+GCP,Cloud Console
+GCP,Cloud Mobile App
+GCP,Cloud Shell
+GCP,Cost Management
+GCP,Private Catalog
+GCP,Terraform on Google Cloud
+GCP,Config Connector
+GCP,Game Servers
+GCP,OpenCue
+GCP,Transcoder API (beta)
+GCP,Application migration
+GCP,BigQuery Data Transfer Service
+GCP,Cloud Foundation Toolkit
+GCP,Migrate for Anthos
+GCP,Migrate for Compute Engine
+GCP,Transfer Appliance
+GCP,Cloud Armor
+GCP,Cloud CDN
+GCP,Cloud Domains
+GCP,Cloud DNS
+GCP,Cloud Load Balancing
+GCP,Cloud NAT
+GCP,Hybrid Connectivity
+GCP,Network Connectivity Center
+GCP,Network Intelligence Center
+GCP,Network Service Tiers
+GCP,Network Telemetry
+GCP,Service Directory
+GCP,Traffic Director
+GCP,Virtual Private Cloud (VPC)
+GCP,Cloud Debugger
+GCP,Cloud Logging
+GCP,Cloud Monitoring
+GCP,Cloud Profiler
+GCP,Cloud Trace
+GCP,Kubernetes Engine Monitoring
+GCP,Access Transparency
+GCP,Assured Workloads
+GCP,Binary Authorization
+GCP,Chronicle
+GCP,Cloud Asset Inventory
+GCP,Cloud Data Loss Prevention
+GCP,Cloud Key Management
+GCP,Confidential Computing
+GCP,Firewalls
+GCP,Risk Protection Program (preview)
+GCP,Secret Manager
+GCP,Security Command Center
+GCP,Shielded VMs
+GCP,VPC Service Controls
+GCP,BeyondCorp Enterprise
+GCP,Certificate Authority Service (beta)
+GCP,Cloud Identity
+GCP,Identity and Access Management
+GCP,Identity-Aware Proxy
+GCP,Identity Platform
+GCP,Managed Service for Microsoft Active Directory
+GCP,Policy Intelligence
+GCP,Resource Manager
+GCP,Titan Security Key
+GCP,reCAPTCHA Enterprise
+GCP,Web Risk
+GCP,App Engine
+GCP,Cloud Functions
+GCP,Cloud Run
+GCP,Workflows
+GCP,Archive Storage
+GCP,Storage Transfer Service
+GCP,Cloud Storage
+GCP,Cloud Storage for Firebase
+GCP,Filestore
+GCP,Google  Workspace Essentials
+GCP,Local SSD
+GCP,Persistent Disk
+GCP,Google Workspace
+GCP,Google Meet
+GCP,Chrome Enterprise
+GCP,Google Maps Platform
